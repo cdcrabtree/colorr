@@ -7,18 +7,18 @@
 #'@examples
 #'\dontrun{
 #'# Manchester United colors
-#'(pal = nba.colors("man_united"))
+#'(pal = epl.colors("man_united"))
 #'pie(rep(1, length(pal)), labels = sprintf("%d (%s)", seq_along(pal), pal), col = pal)
 #'
 #'# Tottenham colors
-#'(pal = nba.colors("tottenham"))
+#'(pal = epl.colors("tottenham"))
 #'pie(rep(1, length(pal)), labels = sprintf("%d (%s)", seq_along(pal), pal), col = pal)
 #'}
 #'@export
 #' @importFrom stats hclust dist
 #' @importFrom graphics par plot rect text
 
-nba.colors <- function(set=c("arsenal", "bournemouth", "burnley", "chelsea", "crystal_palace", "everton", "hull",
+epl.colors <- function(set=c("arsenal", "bournemouth", "burnley", "chelsea", "crystal_palace", "everton", "hull",
                              "leicester", "liverpool", "man_city", "man_united", "middlesbrough", "southampton",
                              "stoke_city", "sunderland", "swansea_city", "tottenham", "watford", "west_bromich_albion",
                              "west_ham")) {
@@ -114,7 +114,7 @@ nba.colors <- function(set=c("arsenal", "bournemouth", "burnley", "chelsea", "cr
 
   switch(match.arg(set),
          arsenal = arsenal,
-         bournemouth = bournemoth,
+         bournemouth = bournemouth,
          burnley = burnley,
          chelsea = chelsea,
          crystal_palace = crystal_palace,

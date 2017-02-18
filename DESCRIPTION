@@ -1,10 +1,10 @@
 Package: colorr
 Type: Package
-Title: Several Themed Color Palettes
-Version: 0.1.0
+Title: Professional Sports Team Color Palettes
+Version: 1.0.0
 Authors@R: person("Charles", "Crabtree", role = c("aut", "cre"),
                      email = "ccrabtr@umich.edu")
-Description: Several themed color palettes.
+Description: Professional sports team color palettes.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true
