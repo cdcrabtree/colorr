@@ -1,3 +1,8 @@
+## Resubmission
+This is a resubmission. In this version I have:
+
+* Deleted empty line in LICENSE file.
+
 ## Test environments
 * local OS X install
 * ubuntu 12.04 (on travis-ci)
