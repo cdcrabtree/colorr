@@ -1,10 +1,10 @@
 Package: colorr
 Type: Package
-Title: Professional Sports Team Color Palettes
+Title: Color Palettes for EPL, MLB, NBA, NHL, and NFL Teams
 Version: 1.0.0
 Authors@R: person("Charles", "Crabtree", role = c("aut", "cre"),
                      email = "ccrabtr@umich.edu")
-Description: Professional sports team color palettes.
+Description: Color palettes for EPL, MLB, NBA, NHL, and NFL teams.
 License: MIT + file LICENSE
 Encoding: UTF-8
 LazyData: true

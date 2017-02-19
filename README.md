@@ -2,7 +2,7 @@
 
 ## colorr
 
-Professional sports team color palettes.
+Color palettes for EPL, MLB, NBA, NHL, and NFL teams.
 
 ### Color palettes
 - `epl.colors` includes the color palettes for all English Premier League teams playing in the 2016-17 season.
