@@ -38,4 +38,4 @@ To test the software, users and potential contributors can use the example code 
 ## Credit
 Some of the code from the functions comes from Karl W. Broman's `broman::brocolors`. Team colors come from [http://jim-nielsen.com/teamcolors/](http://jim-nielsen.com/teamcolors/) and [http://teamcolorcodes.com/nba-team-color-codes/](http://teamcolorcodes.com/nba-team-color-codes/). 
 
-Also, thanks to [http://hadley.nz/](Hadley Wickham) for his excellent book, [http://r-pkgs.had.co.nz/](_R Packages_).
+Also, thanks to [Hadley Wickham](http://hadley.nz/) for his excellent book, [_R Packages_](http://r-pkgs.had.co.nz/).
