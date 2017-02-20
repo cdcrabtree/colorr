@@ -12,19 +12,17 @@ Color palettes for EPL, MLB, NBA, NHL, and NFL teams. The package contains the f
 - `nhl.colors` includes the color palettes for all National Hockey League teams playing in the 2016-17 season.
 
 ## Package Installation
-The latest development version on GitHub can be installed using devtools.
+The latest stable version (1.0.0) can be installed from CRAN.
+```
+install.packages("colorr")
+```
 
+The latest development version on GitHub can be installed using devtools.
 ```
 if(!require("ghit")){
     install.packages("ghit")
 }
 ghit::install_github("cdcrabtree/colorr")
-```
-
-The latest stable version (1.0.0) can be installed from CRAN.
-
-```
-install.packages("colorr")
 ```
 
 ## Support or Contact
