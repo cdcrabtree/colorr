@@ -21,7 +21,7 @@ if(!require("ghit")){
 ghit::install_github("cdcrabtree/colorr")
 ```
 
-The latest stable version (1.0.0) can be installed from Cran.
+The latest stable version (1.0.0) can be installed from CRAN.
 
 ```
 install.packages("colorr")
@@ -31,4 +31,6 @@ install.packages("colorr")
 Having trouble with colorr? Please email [Charles Crabtree](mailto:ccrabtr@umich.edu) and he'll help you sort it out.
 
 ## Credit
-Some of the code from the functions comes from Karl W. Broman's `broman::brocolors`. Team colors come from [http://jim-nielsen.com/teamcolors/](http://jim-nielsen.com/teamcolors/) and [http://teamcolorcodes.com/nba-team-color-codes/](http://teamcolorcodes.com/nba-team-color-codes/).
+Some of the code from the functions comes from Karl W. Broman's `broman::brocolors`. Team colors come from [http://jim-nielsen.com/teamcolors/](http://jim-nielsen.com/teamcolors/) and [http://teamcolorcodes.com/nba-team-color-codes/](http://teamcolorcodes.com/nba-team-color-codes/). 
+
+Also, thanks to [http://hadley.nz/](Hadley Wickham) for his excellent book, [http://r-pkgs.had.co.nz/](_R Packages_).
