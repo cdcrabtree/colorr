@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/cdcrabtree/colorr.svg?branch=master)](https://travis-ci.org/cdcrabtree/colorr) [![Build status](https://ci.appveyor.com/api/projects/status/github/cdcrabtree/colorr?svg=true)](https://ci.appveyor.com/api/projects/status/github/cdcrabtree/)
+[![Build Status](https://travis-ci.org/cdcrabtree/colorr.svg?branch=master)](https://travis-ci.org/cdcrabtree/colorr) [![Build status](https://ci.appveyor.com/api/projects/status/github/cdcrabtree/colorr?svg=true)](https://ci.appveyor.com/api/projects/status/github/cdcrabtree/) ![](http://www.r-pkg.org/badges/version/colorr) ![](http://cranlogs.r-pkg.org/badges/colorr) [![DOI](https://zenodo.org/badge/80883292.svg)](https://zenodo.org/badge/latestdoi/80883292)
 
 ## colorr
 
@@ -19,6 +19,12 @@ if(!require("ghit")){
     install.packages("ghit")
 }
 ghit::install_github("cdcrabtree/colorr")
+```
+
+The latest stable version (1.0.0) can be installed from Cran.
+
+```
+install.packages("colorr")
 ```
 
 ## Support or Contact
